@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ldW6v1lBYiH0w/H1TSmUaFHK4l/3lDnRFgrlVwtT+lRlyx/f2Wv5PZdXogcHlmGL4GF6vcIji9T6Gqxeulwb8A==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\DotNet\\GameTOP.lib\\GameTOP.lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JFeH\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JFeH\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
